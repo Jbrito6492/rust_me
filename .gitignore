@@ -1,6 +1,6 @@
 ### JS stuffs ###
 *node_modules/
-*dist/
+*public/
 package-lock.json
 
 ### Rust ###

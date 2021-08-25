@@ -2,7 +2,7 @@ const path = require("path");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 
 const ENTRY_DIR = path.join(__dirname, "frontend");
-const DIST_DIR = path.join(__dirname, "frontend", "dist");
+const DIST_DIR = path.join(__dirname, "frontend", "public", "static");
 
 const config = {
   mode: "development",
